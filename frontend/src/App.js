@@ -24,7 +24,7 @@ function App() {
   return (
     <div className={classes.root}>
       <Typography variant="h1" className={classes.title}>
-        Welcome to Mysite
+        Welcome to Lois Li
       </Typography>
       <Typography variant="h2">coming soon...</Typography>
 
